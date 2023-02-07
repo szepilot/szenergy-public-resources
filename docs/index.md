@@ -9,7 +9,7 @@ This repository is devoted to share data related to the Shell Eco-marathon __Aut
 - [Videos](#videos)
 - [Papers](#papers)
 
-![img](img/dataset-example-small.png)
+![img](../img/dataset-example-small.png)
 
 ## Datasets
 
@@ -22,23 +22,23 @@ This repository is devoted to share data related to the Shell Eco-marathon __Aut
 
 During the project several sensor constellations were tested. [This link](https://github.com/search?q=topic%3Adriver+fork%3Atrue+org%3Aszenergy&type=Repositories) contains the public repositories shared by Szenergy. The latest sensor constellation is visible in the following image. In the top the research-purposed Nissan Leaf, at the bottom the education-purposed Szenergy vehicle is illustrated. This is the current version of the vehicles. 
 
-![img](img/vehicle-sensors.svg)
+![img](../img/vehicle-sensors.svg)
 
 Follow [this link](https://github.com/search?q=topic%3Adriver+fork%3Atrue+org%3Aszenergy&type=Repositories) to our public drivers.
 
 | Image <img width=150/> | Type | Device | External link |
 | --- | --- | --- | --- |
-| ![img](img/sens-duro.svg) | GPS | SwiftNav Duro Inertial | [github.com/szenergy/duro_gps_driver](https://github.com/szenergy/duro_gps_driver) | 
-| ![img](img/sens-nova.svg) | GPS | NovAtel PW7720E1-DDD-RZN-TBE-P1 | [github.com/szenergy/novatel_gps_driver](https://github.com/szenergy/novatel_gps_driver) |
-| ![img](img/sens-kvhg.svg) | GPS | KVH Geo Fog 3D | [github.com/szenergy/kvh_gps_driver](https://github.com/szenergy/kvh_gps_driver) |
-| ![img](img/sens-velo.svg) | LIDAR | Velodyne VLP16 Puck | [github.com/szenergy/nissan_leaf_ros](https://github.com/szenergy/nissan_leaf_ros) |
-| ![img](img/sens-oust.svg) | LIDAR | Ouster OS1-64, OS1-128  | [github.com/szenergy/ouster_example](https://github.com/szenergy/ouster_example) |
-| ![img](img/sens-sick.svg) | LIDAR | Sick LMS111  | [github.com/clearpathrobotics/lms1xx](https://github.com/clearpathrobotics/lms1xx) | 
-| ![img](img/sens-zed1.svg) | Camera | Stereolabs ZED | [github.com/stereolabs/zed-ros-wrapper](https://github.com/stereolabs/zed-ros-wrapper) | 
-| ![img](img/sens-cont.svg) | Radar | Continental ARS 408 |  [github.com/szenergy/conti_radar_driver](https://github.com/szenergy/conti_radar_driver)
-| ![img](img/emb-crio.svg) | Embedded controller | NI CompactRIO | [github.com/ni](https://github.com/ni)
-| ![img](img/emb-jetson.svg) | Embedded controller | NVIDIA Jetson | [github.com/NVIDIA-AI-IOT](https://github.com/NVIDIA-AI-IOT)
-| ![img](img/emb-commsignia.svg) | Embedded controller | Commsignia V2X | [github.com/Commsignia](https://github.com/Commsignia)
+| ![img](../img/sens-duro.svg) | GPS | SwiftNav Duro Inertial | [github.com/szenergy/duro_gps_driver](https://github.com/szenergy/duro_gps_driver) | 
+| ![img](../img/sens-nova.svg) | GPS | NovAtel PW7720E1-DDD-RZN-TBE-P1 | [github.com/szenergy/novatel_gps_driver](https://github.com/szenergy/novatel_gps_driver) |
+| ![img](../img/sens-kvhg.svg) | GPS | KVH Geo Fog 3D | [github.com/szenergy/kvh_gps_driver](https://github.com/szenergy/kvh_gps_driver) |
+| ![img](../img/sens-velo.svg) | LIDAR | Velodyne VLP16 Puck | [github.com/szenergy/nissan_leaf_ros](https://github.com/szenergy/nissan_leaf_ros) |
+| ![img](../img/sens-oust.svg) | LIDAR | Ouster OS1-64, OS1-128  | [github.com/szenergy/ouster_example](https://github.com/szenergy/ouster_example) |
+| ![img](../img/sens-sick.svg) | LIDAR | Sick LMS111  | [github.com/clearpathrobotics/lms1xx](https://github.com/clearpathrobotics/lms1xx) | 
+| ![img](../img/sens-zed1.svg) | Camera | Stereolabs ZED | [github.com/stereolabs/zed-ros-wrapper](https://github.com/stereolabs/zed-ros-wrapper) | 
+| ![img](../img/sens-cont.svg) | Radar | Continental ARS 408 |  [github.com/szenergy/conti_radar_driver](https://github.com/szenergy/conti_radar_driver)
+| ![img](../img/emb-crio.svg) | Embedded controller | NI CompactRIO | [github.com/ni](https://github.com/ni)
+| ![img](../img/emb-jetson.svg) | Embedded controller | NVIDIA Jetson | [github.com/NVIDIA-AI-IOT](https://github.com/NVIDIA-AI-IOT)
+| ![img](../img/emb-commsignia.svg) | Embedded controller | Commsignia V2X | [github.com/Commsignia](https://github.com/Commsignia)
 
 
 ## Simulations
