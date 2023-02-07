@@ -1,3 +1,56 @@
 site_name: szenergy
+site_url: https://szepilot.github.io/szenergy-public-resources
+site_description: szenergy public resources
+
+
+nav:
+    - Kezdőlap: index.md
+    
+
 theme:
-  name: material
+    name: material
+    palette:
+        scheme: default
+        primary: blue grey
+    language: hu
+    features:
+        - navigation.tabs
+        - toc.integrate
+        
+        
+
+extra:                                              
+  alternate:  
+    - name: English
+      link: https://szepilot.github.io/szenergy-public-resources
+      lang: en
+
+    - name: Hungarian
+      link: https://szepilot.github.io/szenergy-public-resources
+      lang: hu
+   
+plugins:
+    - search
+    - pdf-export
+       
+      
+markdown_extensions:
+    - pymdownx.arithmatex:
+        generic: true 
+    - mkdocs_graphviz
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    - attr_list
+    - md_in_html
+    - tables
+
+    
+copyright: Copyright &copy; 2022 <a href="mailto:tamas.daniel.nagy@irob.uni-obuda.hu">Tamas D. Nagy</a>.
+
+
+extra_javascript:
+    - javascripts/mathjax.js
+    - https://polyfill.io/v3/polyfill.min.js?features=es6
+    - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+    - https://cdn.jsdelivr.net/gh/rod2ik/cdn@main/mkdocs/javascripts/mkdocs-graphviz.js
